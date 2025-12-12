@@ -7,7 +7,7 @@ Build an interactive dashboard using the HR dataset to analyze workforce demogra
 ## 📊 Key Performance Indicators (KPIs)
 
 1. Total Employees
-2. 2. New Hires
+2. New Hires
 3. Employees Exited / Attrition Count
 4. Attrition Rate
 5. Average Age
