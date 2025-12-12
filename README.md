@@ -36,13 +36,16 @@ Build an interactive dashboard using the HR dataset to analyze workforce demogra
 3. **Employee Ethnicity Distribution**
    <img width="1606" height="722" alt="image" src="https://github.com/user-attachments/assets/a37fba27-dd8e-4ced-a70e-9dda993c97a9" />
 
-4. **Attrition Overview**
+4. **Hiring Trends**
+   <img width="1838" height="728" alt="image" src="https://github.com/user-attachments/assets/f79a053d-2b12-418b-a30a-dcd54451f978" />
+
+6.  **Attrition Overview**
    <img width="1828" height="732" alt="image" src="https://github.com/user-attachments/assets/6793c1ad-902b-428b-97b4-ae22b97a3bed" />
 
-5. **Compensation and Bonus Overview**
+7. **Compensation and Bonus Overview**
    <img width="1827" height="737" alt="image" src="https://github.com/user-attachments/assets/a1933662-bdb2-4f6a-9e8c-8cc615302380" />
 
-6. **Role Composition Overview**
+8. **Role Composition Overview**
    <img width="1810" height="716" alt="image" src="https://github.com/user-attachments/assets/b4ef1209-6e92-43a5-afeb-1234017a0855" />
 
 
