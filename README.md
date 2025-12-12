@@ -33,23 +33,28 @@ https://github.com/anmolsodhi848-wq/Office-Employees/blob/main/Employee%20Data.c
 1. **Employee Demographics**
    <img width="1825" height="717" alt="image" src="https://github.com/user-attachments/assets/05ada5aa-732f-43e9-b9d4-df65beaa9bc7" />
 
-2. **Employee Salary Anamlysis**
+2. **Role Composition Overview**
+   <img width="1810" height="716" alt="image" src="https://github.com/user-attachments/assets/b4ef1209-6e92-43a5-afeb-1234017a0855" />
+
+3. **Employee Salary Analysis**
    <img width="1822" height="732" alt="image" src="https://github.com/user-attachments/assets/ec1dec06-7233-492d-bfff-3330b92f950d" />
 
-3. **Employee Ethnicity Distribution**
-   <img width="1606" height="722" alt="image" src="https://github.com/user-attachments/assets/a37fba27-dd8e-4ced-a70e-9dda993c97a9" />
-
-4. **Hiring Trends**
-   <img width="1838" height="728" alt="image" src="https://github.com/user-attachments/assets/f79a053d-2b12-418b-a30a-dcd54451f978" />
-
-6.  **Attrition Overview**
-   <img width="1828" height="732" alt="image" src="https://github.com/user-attachments/assets/6793c1ad-902b-428b-97b4-ae22b97a3bed" />
-
-7. **Compensation and Bonus Overview**
+4. **Compensation and Bonus Overview**
    <img width="1827" height="737" alt="image" src="https://github.com/user-attachments/assets/a1933662-bdb2-4f6a-9e8c-8cc615302380" />
 
-8. **Role Composition Overview**
-   <img width="1810" height="716" alt="image" src="https://github.com/user-attachments/assets/b4ef1209-6e92-43a5-afeb-1234017a0855" />
+5. **Employee Diversity and Inclusion**
+   <img width="1606" height="722" alt="image" src="https://github.com/user-attachments/assets/a37fba27-dd8e-4ced-a70e-9dda993c97a9" />
+
+6.**Age and Experience Distribution**
+   <img width="1857" height="950" alt="image" src="https://github.com/user-attachments/assets/e6693769-d36b-4e5d-8953-340edeace23b" />
+
+7. **Hiring Trends**
+   <img width="1838" height="728" alt="image" src="https://github.com/user-attachments/assets/f79a053d-2b12-418b-a30a-dcd54451f978" />
+
+8.  **Attrition Overview**
+   <img width="1828" height="732" alt="image" src="https://github.com/user-attachments/assets/6793c1ad-902b-428b-97b4-ae22b97a3bed" />
+
+
 
 
 
