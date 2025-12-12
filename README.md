@@ -55,6 +55,43 @@ https://github.com/anmolsodhi848-wq/Office-Employees/blob/main/Employee%20Data.c
    <img width="1828" height="732" alt="image" src="https://github.com/user-attachments/assets/6793c1ad-902b-428b-97b4-ae22b97a3bed" />
 
 
+## Project Insights
+
+🌎 **Employee Demographics & Distribution**
+
+   1. **Total Headcount and Salary:** The company has a total of 911 employees with an Average Salary of 124,278.
+   2. **Gender Ratio:** The Male to Female Ratio is 0.93, indicating a slightly higher number of female employees (495 Female vs. 460 Male, as seen in Images 2, 3, 4, 5, 6, 7, 8).
+   3. **Country Origin:** The majority of employees are in the United States (599), followed by China (214) and Brazil (98).
+   4. **Top Departments:** The largest departments by headcount are IT (238), Engineering (158), and Sales (140).
+   5. **Top Business Units:** The largest business units are Manufacturing (261), Speciality Products (256), and Corporate (229).
+
+📈 **Hiring and Attrition**
+
+   1. **Hiring Trend:** There is a clear upward trend in the number of hires, with a significant increase in the later years. The number of hires jumped from 17 in 2017 to a peak of 50 in 2021.
+   2. **Department Hiring:** IT has the highest number of overall hires, significantly surpassing other departments.
+   3. **Exit Trend:** Employee exits have also generally trended upward, peaking at 20 exits in 2020 and decreasing slightly to 7 in 2022.
+   4. **Attrition by Department/Business Unit:**
+      1. Marketing has the highest number of total exits (14), followed by Engineering (11) and IT (11).
+      2. Exits are distributed across Business Units, with Research & Development and Speciality Products frequently appearing alongside Corporate and Manufacturing for most departments. Marketing, in particular, shows 6 exits in R&D and 4 in Corporate.
+
+💰 **Salary, Bonus, and Role Composition**
+
+   1. **Overall Average Salary:** The average annual salary is 124,278.
+   2. **Salary by Department:**
+      1. Accounting has the highest average annual salary (123,147).
+      2. IT has the lowest average annual salary (97,790).
+   3. **Bonus by Department:**
+      1. IT has the highest average bonus percentage (0.12425).
+      2. Accounting has the lowest average bonus percentage (0.07165).
+   4. **Business Unit Average Salary**: Corporate has the highest average annual salary (120,776).
+   5. Employee Positions: The company structure is top-heavy, with the highest number of employees in senior roles: Director (120), Sr. Manager (109), and Vice President (104).
+
+🧑‍🤝‍🧑 **Age, Gender, and Ethnicity Distribution** 
+
+   1. **Gender Distribution:** The workforce is relatively balanced: 495 Female and 460 Male.
+   2. **Ethnicity Distribution:** The largest ethnic groups are Asian (388) and Caucasian (264), followed by Latino (246).
+   3. **Age Distribution:** The two largest age cohorts are 45 (151 employees) and 55 (126 employees), suggesting a predominantly middle-aged and experienced workforce.
+   4. **Department Average Age:** Engineering has the highest average employee age (45.671), while Marketing has the lowest (43.217).
 
 
 
