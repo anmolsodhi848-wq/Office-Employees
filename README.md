@@ -4,6 +4,9 @@
 
 Build an interactive dashboard using the HR dataset to analyze workforce demographics, compensation, and attrition trends for data-driven decision-making.
 
+## Dataset
+https://github.com/anmolsodhi848-wq/Office-Employees/blob/main/Employee%20Data.csv
+
 ## 📊 Key Performance Indicators (KPIs)
 
 1. Total Employees
